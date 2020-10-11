@@ -1,7 +1,7 @@
 # YTPI
 A YouTube downloader (Playlist support) 
 # Installation
-Run `git clone https://github.com/pixiwebdevfr/YTPI && cd YTPI`
+Run `git clone https://github.com/pixiwebdevfr/YTPI && cd YTPI && sh install.sh`
 
 # Run
 Make sure you follow the steps under "Use"
