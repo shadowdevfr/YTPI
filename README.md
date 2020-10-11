@@ -4,9 +4,11 @@ A YouTube downloader (Playlist support)
 Run `git clone https://github.com/pixiwebdevfr/YTPI && cd YTPI`
 
 # Run
-
-To run the program just cd on YTPI directory and run sh `YTPi.sh`
+Make sure you follow the steps under "Use"
+To run the program just cd on YTPI directory and run `sh dwl.sh`
 
 # Use
 
-Edit the file.
+Edit the file dwl.sh using `nano dwl.sh`
+Modify the required fields (Playlist name, link and format)
+Execute the program with the step "Run".
